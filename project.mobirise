@@ -1,0 +1,1348 @@
+{
+  "settings": {
+    "name": "Site-09-23_1708",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#37383e"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.2",
+    "siteFonts": [],
+    "uniqCompNum": 40,
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Pacific Pools",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pacific Pools",
+          "text": "Una solución profesional y confiable para tu jardín y piscina en la costa",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "27",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Quiénes Somos",
+          "text": "<p>Somos un equipo de profesionales que ofrecemos proyectos de piscinas y jardines para tu casa en la costa.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Qué ofrecemos",
+          "text": "<p>Eficiencia, rapidez y seguridad</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"piscinahormigon.html\" data-toolbar=\"-mbrBtnMove\">Piscinas hormigón &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Piscinas contenedores &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Piscinas fibra de vidrio &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Insumos para tu piscina</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Proyectos de paisajismo</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-a",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "piscinahormigon.html": {
+      "settings": {
+        "title": "Hormigón",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Piscinas de Hormigón",
+          "caption": "<p>Si lo que a ti te interesa es tener una piscina que debe durar muchísimos años , entonces tu opción es una piscina de hormigón de Pacific Pools. Nosotros fabricamos e instalamos piscinas de hormigón en la costa acorde a tus pedidos. Todos nuestros proyectos en hormigón cuentan con calculo estructural realizado por un ingeniero calculista, utilizamos concreto de resistencia H25 (250kgrs/cm2) y acero A63-42H. Las piscinas de hormigón tienen la ventaja de adaptación al terreno en forma y tamaño.</p><p> Podemos construir tu piscina en tu jardín existente o que forme parte de un proyecto de paisajismo hecho por terceros o nuestras propias expertas.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-h"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": true,
+            "showBio": true,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Users Say",
+          "items": [
+            {
+              "authorName": "STANDARD",
+              "authorBio": "Quiero saber más...",
+              "text": "• Disponibles en cualquier medida y diseño\n<div>• Cualquier color interior(pintura)\n</div><div>• Filtro de arena\n</div><div>• Bomba \n</div><div>• Skimmer\n</div><div>• Foco LED\n</div><div>• Baldosas atérmicas perimetrales\n</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "EXTRAS<br>",
+              "authorBio": "Quiero saber más...",
+              "text": "• Calefacción*\n<div>• Mosaicos en todo o parte del interior\n</div><div>• Deck de madera o WPC\n</div><div>• Baranda de vidrio o aluminio\n</div><div>• Cubierta térmica o de seguridad\n</div><div>• Iluminación LED \n</div><div>• Clorador\n</div><div>• Ionizador\n</div><div>• Desborde finlandés o borde infinito\n</div><div>• Escala muro en acero inoxidable\n</div><div>• Servicios de mantención \n</div><div>\n</div><div><br></div><div>*Tempera tu piscina entre 28 – 30 grados, usando tecnología de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo.\n</div>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-g",
+          "testimonial": [
+            {
+              "authorName": "<a href=\"mailto:contacto@pacificpools.cl\">STANDARD</a>",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "• Disponibles en cualquier medida y diseño\n<div>• Cualquier color interior(pintura)\n</div><div>• Filtro de arena\n</div><div>• Bomba \n</div><div>• Skimmer\n</div><div>• Foco LED\n</div><div>• Baldosas atérmicas perimetrales\n</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "<a href=\"mailto:contacto@pacificpools.cl\">EXTRAS</a><br>",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "• Calefacción*\n<div>• Mosaicos en todo o parte del interior\n</div><div>• Deck de madera o WPC\n</div><div>• Baranda de vidrio o aluminio\n</div><div>• Cubierta térmica o de seguridad\n</div><div>• Iluminación LED \n</div><div>• Clorador\n</div><div>• Ionizador\n</div><div>• Desborde finlandés o borde infinito\n</div><div>• Escala muro en acero inoxidable\n</div><div>• Servicios de mantención \n</div><div>\n</div><div><br></div><div>*Tempera tu piscina entre 28 – 30 grados, usando tecnología de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo.\n</div>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-c",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Fibra de Vidrio",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Piscinas de Fibra de Vidrio",
+          "caption": "<p>Una piscina de fibra de vidrio es una buena alternativa, porque se caracteriza por su instalación rápida, precio económico y de fácil mantención. Pacific Pools usa productores externos especializados en la construcción piscinas de fibra de vidrio, los cuales deben cumplir nuestros estándares de calidad(materia prima, espesor, metodología constructiva). Nosotros nos encargamos del diseño, la instalación los sistemas de filtrado y eléctricos y la instalación final de la piscina en tu terreno. Lo hacemos en forma independiente o si forma parte del proyecto de paisajismo hecho por terceros o nuestro equipo de expertas.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-l"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": true,
+            "showBio": true,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Users Say",
+          "items": [
+            {
+              "authorName": "STANDARD",
+              "authorBio": "Quiero saber más...",
+              "text": "• Disponibles en cualquier medida y diseño\n<div>• Diferentes colores</div><div>• Filtro de arena\n</div><div>• Bomba \n</div><div>• Skimmer\n</div><div>• Foco LED</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "EXTRAS<br>",
+              "authorBio": "Quiero saber más...",
+              "text": "• Calefacción*\r<div>• Deck de madera o WPC\r</div><div>• Baranda de vidrio o aluminio\r</div><div>• Escala de acero inoxidable\r</div><div>• Cubiertas térmica o de seguridad\r</div><div>• Iluminación LED adicional\r</div><div>• Ionizador\r</div><div>• Clorador\r</div><div>• Servicios de mantención \r</div><div>\r</div><div>* Tempera tu piscina entre 28 – 30 grados, usando tecnología eléctrica de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo. \r</div><div>\r</div><div>Adicionalmente, podemos cotizar calefacción con paneles solares los cuales logran un incremento de temperatura de 4 a 6 grados.  \r</div><div><br></div>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "STANDARD",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "• Disponibles en cualquier medida y diseño\n<div>• Diferentes colores</div><div>• Filtro de arena\n</div><div>• Bomba \n</div><div>• Skimmer\n</div><div>• Foco LED</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "EXTRAS<br>",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "• Calefacción*\r<div>• Deck de madera o WPC\r</div><div>• Baranda de vidrio o aluminio\r</div><div>• Escala de acero inoxidable\r</div><div>• Cubiertas térmica o de seguridad\r</div><div>• Iluminación LED adicional\r</div><div>• Ionizador\r</div><div>• Clorador\r</div><div>• Servicios de mantención \r</div><div>\r</div><div>* Tempera tu piscina entre 28 – 30 grados, usando tecnología eléctrica de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo. \r</div><div>\r</div><div>Adicionalmente, podemos cotizar calefacción con paneles solares los cuales logran un incremento de temperatura de 4 a 6 grados.  \r</div><div><br></div>"
+            }
+          ],
+          "_anchor": "testimonials1-m"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-o",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Contenedores",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Piscinas de Contenedores",
+          "caption": "<p>Los contenedores han sido utilizados por décadas como piscinas, especialmente en Australia y Canadá y Pacific Pools las está ofreciendo ahora en Chile. Las piscinas de contenedores son soluciones seguras, rápidas, fáciles de instalar y de bajo costo, dando la posibilidad de tener una piscina única y trasladable. El producto es designado como sobre terreno y parcialmente enterrado, para integrar en tu casa, terraza o jardín.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-q"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": true,
+            "showBio": true,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Users Say",
+          "items": [
+            {
+              "authorName": "STANDARD",
+              "authorBio": "Quiero saber más...",
+              "text": "<div>• Disponibles en 2 medidas estándar: 6 x 2,4 M o 12m x 2,4m.  Profundidad flexible y a la medida.\n</div><div>• Cualquier color interior y exterior\n</div><div>• Filtro de arena\n</div><div>• Bomba centrifuga\n</div><div>• Skimmer \n</div><div>• Foco LED\n</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "EXTRAS<br>",
+              "authorBio": "Quiero saber más...",
+              "text": "<div>• Ventanas*\n</div><div>• Calefacción**\n</div><div>• Deck de madera o WPC\n</div><div>• Baranda de vidrio o aluminio\n</div><div>• Cubierta térmica o de seguridad\n</div><div>• Iluminación LED adicional\n</div><div>• Ionizador\n</div><div>• Escala de acero inoxidable\n</div><div>• Servicios de mantención \n</div><div>\n</div><div>\n</div><div>* Paneles de acrílico (Utilizados en acuarios, para tener una vista clara en tu piscina, manteniendo la integridad estructural). \n</div><div>**Tempera tu piscina entre 28 – 30 grados, usando tecnología eléctrica de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo. Adicionalmente, podemos cotizar calefacción con paneles solares con lo cual logras aumentar la temperatura entre 4 a 6 grados. &nbsp;\n</div>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "STANDARD",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "<div>• Disponibles en 2 medidas estándar: 6 x 2,4 M o 12m x 2,4m.  Profundidad flexible y a la medida.\n</div><div>• Cualquier color interior y exterior\n</div><div>• Filtro de arena\n</div><div>• Bomba centrifuga\n</div><div>• Skimmer \n</div><div>• Foco LED\n</div><div><i><br></i></div>"
+            },
+            {
+              "authorName": "EXTRAS<br>",
+              "authorBio": "<a href=\"mailto:contacto@pacificpools.cl\">Quiero saber más...</a>",
+              "text": "<div>• Ventanas*\n</div><div>• Calefacción**\n</div><div>• Deck de madera o WPC\n</div><div>• Baranda de vidrio o aluminio\n</div><div>• Cubierta térmica o de seguridad\n</div><div>• Iluminación LED adicional\n</div><div>• Ionizador\n</div><div>• Escala de acero inoxidable\n</div><div>• Servicios de mantención \n</div><div>\n</div><div>\n</div><div>* Paneles de acrílico (Utilizados en acuarios, para tener una vista clara en tu piscina, manteniendo la integridad estructural). \n</div><div>**Tempera tu piscina entre 28 – 30 grados, usando tecnología eléctrica de última generación, la que permite entregar una solución confiable, amigable con el medio ambiente y de bajo costo. Adicionalmente, podemos cotizar calefacción con paneles solares con lo cual logras aumentar la temperatura entre 4 a 6 grados. &nbsp;\n</div>"
+            }
+          ],
+          "_anchor": "testimonials1-r"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-t",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Paisajismo",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Proyectos de Paisajismo",
+          "caption": "<p>El entorno de tu casa es un elemento importante para disfrutar la vida a la playa en el máximo. Sin embargo, la ubicación cerca al mar, el tamaño del terreno y la disponibilidad de agua requieren generalmente soluciones especiales. Pacific Pools ofrece un proyecto integral, desde el diseño hasta la instalación. \n</p><p>\n</p><p>Trabajamos con paisajistas expertas que buscan el mejor balance entre las preferencias de nuestros/as clientes y los desafíos de la zona costera.\n</p><p>\n</p><p>Los servicios incluyen: diseño, compra y colocación de plantas, cortezas y piedras; diseño e instalación de sistema de regadío, iluminación y  servicios de mantención.\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-y",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Accesorios",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-9\">Piscinas</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html\" target=\"_blank\">Accesorios</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\" target=\"_blank\">Paisajismo</a></li> ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pacific Pools</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Accesorios",
+          "caption": "<p>Disponemos de un variado stock de productos para tu piscina para que tu experiencia sea más divertida y única. Revisa en nuestra galería cuáles son los productos que necesitas.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-10"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"mailto:contacto@pacificpools.cl\">Cobertores de piscinas</a>",
+          "caption1": "Para la seguridad tuya y de tu familia y para proteger de las inclemencias del clima. Disponemos de todas las medidas y estilos para proteger de manera adecuada tu piscina.",
+          "title2": "<a href=\"mailto:contacto@pacificpools.cl\">Químicos</a>",
+          "caption2": "<br>Los químicos permiten mantener el agua de tu piscina limpia y segura durante todo el año. Disponemos de alguicidas, cloro, clarificadores de agua, y medidores entre otros.",
+          "title3": "<a href=\"mailto:contacto@pacificpools.cl\">Equipamiento de limpieza</a><br><br>",
+          "caption3": "El equipamiento es una parte fundamental para que tu piscina funcione de manera adecuada. En Pacific Pools contamos con las mejores marcas y opciones.",
+          "title4": "<a href=\"mailto:contacto@pacificpools.cl\">Repuestos</a>",
+          "caption4": "<br>Contamos con repuestos para tu filtro, sistema de limpieza, iluminación, motores, escaleras,&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-13"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#8f99af",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "text1": "<br><br>\nContacts<br>\nEmail: contacto@pacificpools.cl<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "avalledelejos@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-12",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
